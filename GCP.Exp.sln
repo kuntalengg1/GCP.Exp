@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{42B00E3C-0DDC-4B53-A045-4A75557D2A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GcpProject1", "GcpProject1\GcpProject1.csproj", "{E36367E2-853C-464D-B098-6FDF4BDB84DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCP.Fileupload", "GCP.Fileupload\GCP.Fileupload.csproj", "{8DAD3C26-3C34-426E-A7DB-CBB214643121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCP.MsSQL.DB.Connect", "GCP.MsSQL.DB.Connect\GCP.MsSQL.DB.Connect.csproj", "{17CCB1D2-713E-40A6-9620-84C6BA911CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.WebApplication1", "NET.WebApplication1\NET.WebApplication1.csproj", "{1D112CA4-FC8C-413F-8818-9B5F8F3566F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOCKER.WebApi1", "DOCKER.WebApi1\DOCKER.WebApi1.csproj", "{267B2D3C-C490-402C-ACCE-1796CA1F2243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B00E3C-0DDC-4B53-A045-4A75557D2A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B00E3C-0DDC-4B53-A045-4A75557D2A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B00E3C-0DDC-4B53-A045-4A75557D2A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B00E3C-0DDC-4B53-A045-4A75557D2A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36367E2-853C-464D-B098-6FDF4BDB84DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36367E2-853C-464D-B098-6FDF4BDB84DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36367E2-853C-464D-B098-6FDF4BDB84DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36367E2-853C-464D-B098-6FDF4BDB84DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAD3C26-3C34-426E-A7DB-CBB214643121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAD3C26-3C34-426E-A7DB-CBB214643121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAD3C26-3C34-426E-A7DB-CBB214643121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAD3C26-3C34-426E-A7DB-CBB214643121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CCB1D2-713E-40A6-9620-84C6BA911CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CCB1D2-713E-40A6-9620-84C6BA911CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CCB1D2-713E-40A6-9620-84C6BA911CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CCB1D2-713E-40A6-9620-84C6BA911CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D112CA4-FC8C-413F-8818-9B5F8F3566F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D112CA4-FC8C-413F-8818-9B5F8F3566F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D112CA4-FC8C-413F-8818-9B5F8F3566F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D112CA4-FC8C-413F-8818-9B5F8F3566F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267B2D3C-C490-402C-ACCE-1796CA1F2243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267B2D3C-C490-402C-ACCE-1796CA1F2243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267B2D3C-C490-402C-ACCE-1796CA1F2243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267B2D3C-C490-402C-ACCE-1796CA1F2243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6571C51-1199-4E7E-A8CE-C85937AF45A2}
+	EndGlobalSection
+EndGlobal
